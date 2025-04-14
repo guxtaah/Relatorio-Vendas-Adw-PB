@@ -48,12 +48,6 @@ As análises consideram:
 
 ---
 
-## 📁 Arquivo
-
-- `Relatorio Vendas.pbix` – Arquivo do Power BI contendo todos os dados, modelagem e visualizações.
-
----
-
 ## 📌 Observações
 
 Este projeto é uma iniciativa de prática e demonstração de habilidades em Business Intelligence com Power BI. Os dados utilizados podem ser fictícios ou anonimados para fins educacionais.
